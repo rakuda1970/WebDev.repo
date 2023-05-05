@@ -38,6 +38,7 @@
                 <li><a class="dropdown-item" href="/mysql">Images</a></li>
                 <li><a class="dropdown-item" href="/pdf">PDF</a></li>
                 <li><a class="dropdown-item" href="/aws-s3">AWS S3</a></li>
+                <li><a class="dropdown-item" href="/chartjs">Chart.js</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="/booklist">Books</a></li>
               </ul>
